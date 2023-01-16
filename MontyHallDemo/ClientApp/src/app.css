@@ -1,0 +1,14 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+div {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    width: 60vw;
+}
+
+
